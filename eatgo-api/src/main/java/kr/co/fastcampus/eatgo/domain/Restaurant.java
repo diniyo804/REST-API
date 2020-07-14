@@ -1,5 +1,6 @@
 package kr.co.fastcampus.eatgo.domain;
 
+//도메인 모델
 public class Restaurant {
     private final String name;
     private final String address;
